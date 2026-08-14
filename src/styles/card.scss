@@ -60,12 +60,12 @@
     width: 166px;
     height: 16px;
     margin-top: 16px;
-  }
 
-  & .stars {
-    flex-shrink: 0;
-    width: 96px;
-    height: 16px;
+    & .stars {
+     flex-shrink: 0;
+     width: 96px;
+     height: 16px;
+   }
   }
 
   &__reviews-link {
